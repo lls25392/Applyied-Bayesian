@@ -1,1 +1,1 @@
-# Applyied-Bayesian
+# Applied-Bayesian
